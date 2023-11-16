@@ -1,6 +1,6 @@
 const express = require("express"); //runs http server
 const cors = require("cors"); //allows one to call the server from any other origin
-const axios = require("axios")
+const axios = require("axios");
 
 //the aforementioned is done in the following lines of code
 const app = express();
